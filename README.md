@@ -11,7 +11,7 @@ The project explores **probability distributions**, **Bayesian probability**, an
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 ### Part 1: Probability Distributions
 - Implemented the **bivariate normal distribution** from scratch in Python.  
@@ -39,7 +39,7 @@ The project explores **probability distributions**, **Bayesian probability**, an
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - **Python 3**
 - **NumPy**
 - **Pandas**
